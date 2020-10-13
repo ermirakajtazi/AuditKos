@@ -1,0 +1,326 @@
+{
+    "navBar": {
+        "Home": "Ballina",
+        "About": "Rreth nesh",
+        "Tranings": "Trajnimet",
+        "Services": "Sherbimet",
+        "Appointment": "Takim",
+        "Contact": "Kontakt"
+    },
+    "about": {
+        "aboutTitle": "Ne Ofrojmë Zgjidhje të Auditimit dhe Përgjegjësisë",
+        "aboutDescription": "Ne ofrojmë ndihmë të gjerë për çdo çështje të auditimit për bizneset moderne"
+    },
+    "audit-content": {
+        "h4": "Ne jemi këtu për të menaxhuar auditimin dhe financat tuaja",
+        "p": "Optimizoni kostot e auditimit duke përdorur përvojën tonë vjetore"
+    },
+    "audit-content1": {
+        "h4": "Përditësoni biznesin tuaj me ne",
+        "p": "Cilësi e Lartë e Zgjedhjeve",
+        "span": "Për shumë vite, ne kemi ndihmuar njerëzit e të gjitha interesave të kenë vlerësime më pozitive se kushdo tjetër."
+    },
+    "list": {
+        "list1": "Miratimi i shpejtë",
+        "list2": "Dokumentacioni Falas",
+        "list3": "Rifinancim",
+        "list4": "Tarifa të përballueshme"
+    },
+    "services": {
+        "p": "SHËRBIMET TONA",
+        "h1": "Ne e duam atë që bëjmë"
+    },
+    "header-card": {
+        "title1": "Auditimi i brendshëm",
+        "title2": "Kontabiliteti",
+        "title3": "Kontrolli",
+        "title4": "Rishikimi"
+    },
+    "body-card": {
+        "p1": "Shërbimet e auditimit janë krijuar për të ndihmuar biznesin tuaj në zbutjen e rrezikut",
+        "p2": "Kontabiliteti është pothuajse shërbimi kryesor që kompania jonë ofron me zgjidhjet më të mira për ju.",
+        "p3": "Auditimet verifikohen me shikim, konfirmim, diskutim me menaxhmentin, vlerësimin e",
+        "p4": "Shqyrtimet janë më pak të hollësishme dhe konsistojnë kryesisht"
+    },
+    "first-auditor": {
+        "h2": "KËERKONI PËR",
+        "h1": "Një Auditor të klasës së parë",
+        "p": "Me shumë përvojë në auditim, punësimi ynë do të bëhet një zgjidhje e duhur për biznesin tuaj!"
+    },
+    "values": {
+        "text1": "Klientë të Besuar",
+        "text2": "Çmime",
+        "text3": "Vite eksperience",
+        "text4": "Ekspertë"
+    },
+    "avatar": {
+        "job": "Mbikëqyrësi i Kontabilitetit",
+        "job1": "Konsulent Ligji",
+        "job2": "Asistentë të Financave",
+        "job3": "Drejtori Ekzekutiv",
+        "p1": "Mbikëqyrësit e kontabilitetit sigurojnë që të gjitha operacionet financiare dhe të kontabilitetit...",
+        "p2": "Konsulentët ligjorë, të quajtur edhe këshilltarë ligjorë, ofrojnë udhëzime ligjore për klientët ...",
+        "p3": "Asistentët e financave janë përgjegjës për mbledhjen dhe regjistrimin e informacionit financiar...",
+        "p4": "Drejtori ekzekutiv mbikëqyr punësimin, pushimin nga puna, mbajtjen e regjistrave, pajtueshmërinë..."
+    },
+    "cases-title": "Rastet e Suksesshme",
+    "testimonial": {
+        "name": "Ian Charles",
+        "job": "Menaxher i Shitjeve",
+        "paragraph": "“Unë nuk do të hezitoj as edhe një grimë për të punuar me ta për nevojat e mia të ardhshme të taksave dhe kontabilitetit. Faleminderit, djema!”",
+        "name1": "Chuck Charles",
+        "job1": "Menaxher Marketingu",
+        "paragraph1": "“Përmbajtja e mirë nuk ka të bëjë me tregim të mirë. Bëhet fjalë për të treguar mirë një histori të vërtetë.”",
+        "name2": "Emily Charles",
+        "job2": "Menaxher i Projektit",
+        "paragraph2": "“Menaxhimi është, mbi të gjitha, një praktikë ku arti, shkenca dhe zanat takohen.”"
+    },
+    "subscribe": {
+        "title": "Regjistrohuni në lajmet tona dhe azhurnimet e rregullta",
+        "p": "Vazhdoni me lajmet, azhurnimet dhe botimet tona gjithmonë të ardhshme. Futni e-mailin tuaj dhe regjistrohuni për informata.",
+        "placeholder": "Vendosni adresën tuaj elektronike",
+        "btn":"Regjistrohu"
+    },
+    "footerLinks": [
+        {
+            "title": "Ballina",
+            "link1": "Rreth Nesh",
+            "link2": "Lajmet e fundit",
+            "link3": "Sherbimet",
+            "link4": "Bashkëpunimet",
+            "path": "/"
+        },
+        {
+            "title": "LIDHJET E SHPEJTA",
+            "link1": "Financiar",
+            "link2": "Bankë private",
+            "link3": "Studimet e rasteve",
+            "link4": "Konsullimet",
+            "path": "/"
+        },
+        {
+            "title": "MBËSHTETJA",
+            "link1": "Qendra e ndihmes",
+            "link2": "Na kontaktoni",
+            "link3": "Ndihme",
+            "link4": "Sigurimi",
+            "path": "/"
+        },
+        {
+            "title": "KOMUNITETI",
+            "link1": "Fond i përbashkët",
+            "link2": "Njihuni me Ekipin",
+            "link3": "Aksionarët",
+            "link4": "Karta Dhuratë",
+            "path": "/"
+        },
+        {
+            "title": "QËNDRO I LIDHUR",
+            "link1": "Twiter",
+            "link2": "Instagram",
+            "link3": "Facebook",
+            "link4": "Twitch",
+            "path": "/"
+        }
+    ],
+    "socialLinks": "Të gjitha të drejtat e rezervuara",
+    "certificate": {
+        "title": "Teknik i Çertifikuar i Kontabilitetit?",
+        "description": "Tekniku i kontabilitetit ka një rol shumë të rëndësishëm për të gjithë sipërmarrësit, nga bizneset e reja private, departamentet qeveritare deri te korporatat. Teknikët e kontabilitetit ndihmojnë llogaritarët profesionistë në mbledhjen, kontrollimin dhe analizimin e informacionit financiar.",
+        "description1": "Certifikimi Teknik i Kontabilitetit të AuditKos është krijuar për të përvetësuar dhe përvetësuar njohuri kontabël, por jo ndonjë përvojë relevante në këtë fushë. Ky është një kualifikim zhvillimi për zyrtarët, si dhe për personelin administrativ, si dhe një bazë e pashmangshme për ata që duan të kualifikohen si një kontabilist i çertifikuar.",
+        "p": "Trajnim për",
+        "h1": "Teknik i Kontabilitetit"
+    },
+    "training": {
+        "h3": "Pas pjesëmarrjes në këtë trajnim, anëtarët do të jenë në gjendje të",
+        "p": "Menaxhoni sistemet për të verifikuar ose zbuluar mashtrim, shpërdorim të fondeve dhe për të verifikuar transaksione. Me fjalë të tjera, ata sigurojnë që njerëzit dhe organizatat po funksionojnë sipas rregullave dhe raporteve financiare dhe pasqyrojnë realitetin me shumë saktësi."
+    },
+    "benefits": {
+        "h2": "Disa nga përfitimet e anëtarësimit në AuditKos:",
+        "title": "SMIS & Forumi",
+        "title1": "Test elektronik",
+        "title2": "Letërsia elektronike",
+        "title3": "Trajnim në klasë",
+        "paragraph": "Sistem i avancuar i shërbimeve dhe komunikimit me studentët.",
+        "paragraph1": "Testim dhe Pyetje Online.",
+        "paragraph2": "Kopje dixhitale dhe fizike të librave.",
+        "paragraph3": "Aksesi në trajnim dhe arsimim të vazhdueshëm."
+    },
+    "partnership": {
+        "h1": "Partneritet me ICBGlobal & AAT",
+        "h3": "Studentëve që përfundojnë çertifikimin e Kontabilistit të Çertifikuar të AuditKos u jepet automatikisht mundësia të aplikojnë për anëtarësim në organizatat britanike ICBGlobal dhe AAT.",
+        "p": "Anëtarësimi në organizatat ICBGLOBAL dhe AAT nënkupton mundësi punësimi në të gjitha vendet evropiane dhe botërore ku veprojnë këto organizata."
+    },
+    "real": {
+        "h1": "Këtu fillon ndryshimi i vërtetë",
+        "h3": "Ju mund të përdorni aftësimin ose edukimin e vazhdueshëm të mundësuar në çdo kohë dhe në çdo vend, bazuar në platformën e trajnimit dhe testimit në internet ose trajnimit në klasë.",
+        "p": "Ju duhet të bëni hapin e parë duke u regjistruar në internet dhe duke marrë kontrollin e fatit tuaj duke u përkushtuar këtyre mësimeve çdo ditë për të pasur një ngritje të shkëlqyeshme profesionale."
+    },
+    "internal": {
+        "h1": "Auditor i Brendshem",
+        "title": "Auditor i Brendshëm i Çertifikuar?",
+        "description": "Auditori i Brendshëm i Çertifikuar në Sektorin Privat dhe Publik është i vetmi çertifikim i pranuar si i tillë për të dy sektorët dhe mbetet standardi me të cilin individët demonstrojnë kompetencën dhe profesionalizmin e tyre në fushën e auditimit të brendshëm. Për më tepër, çertifikimi i AuditKos është më shumë sesa një provë e asaj që dini dhe asaj që keni arritur. Alsoshtë gjithashtu mënyra më e mirë për profesionistët e auditimit për të komunikuar me botën se ata janë të përgatitur për të përmbushur sfidat e sotme.",
+        "description1": "Certifikimi i AuditKos është i pasuruar me përvojë profesionale, arsimim, informacion dhe mjete biznesi që mund të zbatohen menjëherë në çdo organizatë ose mjedis biznesi. Ky çertifikim rrit pozicionin tuaj në komunitetin e auditimit, duke rritur mundësitë tuaja të karrierës dhe duke fituar besueshmëri dhe respekt brenda profesionit dhe organizatës tuaj."
+    },
+    "aboutUs": {
+        "p": "Disa fjalë për ne",
+        "title": "Pse zgjedhja jemi ne",
+        "paragraph": "AuditKos është një kompani me qendër në Kosovë në Prishtinë, e cila ofron shërbime këshillimi dhe shërbime auditimi në zhvillimin e sistemeve financiare. Ne njohim dhe organizata si ju që nga viti 2015",
+        "title1": "Zhvillim personal",
+        "paragraph1": "Ne jemi të apasionuar pas klientëve tanë dhe vlerës që krijojmë për ta, por kjo nuk është e gjitha. Ne gjithashtu vlerësojmë dhe respektojmë qëllimet tona për rritje dhe zhvillim. Ne besojmë se sa më të ekuilibruar të jemi, aq më të mirë jemi në gjendje t'u shërbejmë klientëve tanë dhe njëri-tjetrit.",
+        "title2": "Inovacioni",
+        "paragraph2": "Ne kemi një respekt dhe admirim të madh për sipërmarrësit. Mbi të gjitha, ne jemi vetë sipërmarrës. Prandaj, ashtu si udhëheqësit e biznesit me të cilët ne punojmë, ne jemi novatorë dhe të përkushtuar për zgjidhje krijuese të problemeve."
+    },
+    "advantages": {
+        "title": "Konfidencialiteti",
+        "paragraph": "Ne garantojmë konfidencialitetin e të dhënave të klientit tonë përmes kontrollit të rreptë mbi infrastrukturën tonë, si dhe të drejtave tona të qasjes fizike dhe personale.",
+        "title1": "Mbështetje gjithëpërfshirëse",
+        "paragraph1": "Si një ofrues me përvojë i burimeve të jashtme, ne ofrojmë shërbime ligjore, auditim dhe kontroll të brendshëm, administrim financiar dhe mbështetje të tjera të biznesit.",
+        "title2": "Cilësia",
+        "paragraph2": "Ne jemi të përkushtuar për të ofruar shërbime të administratës financiare me cilësi të lartë bazuar në përvojën dhe njohuritë e gjera."
+    },
+    "cma": {
+        "h1": "Certifikimi CMA",
+        "h2": "CMA ju pajis me njohuri të thelluara të aftësive financiare dhe të biznesit dhe që lidhen me kërkesat e punëdhënësit.",
+        "title": "Certifikimi CMA",
+        "description": "CMA USA (Kontabilist i Menaxhuar i Çertifikuar) është një çertifikim Amerikan, më i miri i këtij niveli që shërben si një pasaportë në të gjithë botën. Transmetimet CMA janë krijuar për profesionistë të financave me ambicie ndërkombëtare",
+        "description1": "CMA është një çertifikim adekuat për kategoritë e mëposhtme: Për ata që punojnë në një nivel të lartë profesional ose akademik në sektorin e menaxhimit financiar, të tilla si kontrollorë biznesi, llogaritarë biznesi ose CFO. Për ata që punojnë ndërkombëtarisht ose kanë ambicie të tilla dhe që duan të kenë një diplomë që ia vlen ndërkombëtarisht në fushën financiare.",
+        "benefits": "Trajnime për certifikimin CMA",
+        "h3": "Mësuesit",
+        "paragraph": "Niveli i profesorëve / trajnerëve tanë është një proces arsimor që ne kemi krijuar ju garanton një trajnim që maksimizon shanset tuaja për sukses.",
+        "h31": "Fleksibiliteti",
+        "paragraph1": "Krijuar për tu përshtatur me metodat e ndryshme të të mësuarit dhe oraret fleksibël.",
+        "h32": "Përmbushje",
+        "paragraph2": "Mbi 98% e kandidatëve për CMA rekomandojnë kurset tona.",
+        "h33": "Trajnimi në klasë",
+        "paragraph3": "Aksesi në trajnim ose arsimim të vazhdueshëm."
+    },
+    "enter": {
+        "h1": "Sipërmarrja",
+        "h2": "Certifikimi ESB angazhon dhe përgatit ata studentë që do të ndjekin trajnimin pas mesëm ose që vendosin të hyjnë në sektorin e biznesit të vogël menjëherë pas përfundimit të arsimit të mesëm.",
+        "title": "Çfarë është çertifikimi i Ndërmarrjeve dhe Biznesit të Vogël (ESB)",
+        "description": "ESB është produkti i parë i çertifikimit në Programin Bazë të Çertifikimit të Biznesit - Certiport. Qëllimi është përdorimi i provimit ESB kryesisht në mjediset akademike duke përfshirë shkollat e mesme, shkollat profesionale, kolegjet dhe kolegjet teknike.",
+        "description1": "Kandidatët për certifikim ESB pritet të kenë njohuri kryesore konceptuale të parimeve të sipërmarrjes dhe bizneseve të vogla, megjithëse nuk pritet që nga studentët të kenë përvojë në botën reale si menaxher i biznesit të vogël në mënyrë që të kalojnë provimin. Përfundimi i suksesshëm i këtij çertifikimi do të vlerësojë aftësitë dhe njohuritë e atyre studentëve që janë të interesuar të punojnë në një profesion biznesi të mesëm si menaxher dhe atyre që aspirojnë të bëjnë një karrierë në sipërmarrjen dhe bizneset e vogla.",
+        "benefits": "Trajnime për certifikimin CMA",
+        "h3": "Identifikoni karakteristikat e sipërmarrësve.",
+        "h31": "Në një skenar të caktuar që përfshin një rezultat të vetëvlerësimit, identifikoni pikat e forta të dobëta, tolerancën ndaj rrezikut të identifikuar gjatë vetëvlerësimit.",
+        "h32": "Në një skenar të caktuar, njihni një mundësi biznesi.",
+        "h33": "Identifikoni rreziqet, përfitimet, mundësitë dhe disavantazhet e një sipërmarrësi."
+    },
+    "accountant": {
+        "h1": "Praktikë për Kontabilitet",
+        "title": "Kontabilist i Çertifikuar",
+        "description": "Një Auditor i Çertifikuar i AuditKos do të jetë i gatshëm të zbatojë njohuritë, aftësitë e fituara dhe të ushtrojë gjykimin profesional në zbatimin dhe vlerësimin e parimeve të raportimit financiar dhe auditimit të pasqyrave financiare dhe për të praktikuar situata biznesi dhe kontekste, në një mënyrë të pavarur të njëanshme dhe profesionale.",
+        "description1": "Kontabilistët e Çertifikuar gjithashtu do të marrin parimet dhe sistemet e kontrollit të brendshëm të ndërmarrjes, metodat dhe standardet e auditimit, dhe gjithashtu do të fitojnë njohuri të konsiderueshme në fushën e planifikimit të biznesit, vendimmarrjes dhe menaxhimit të performancës.",
+        "h2": "Pas pjesëmarrjes në këtë trajnim, anëtarët do të jenë në gjendje të",
+        "p": "Një Kontabilist i Çertifikuar do të jetë i gatshëm të zbatojë njohuritë e marra në krijimin dhe zbatimin e parimeve të raportimit dhe menaxhimit financiar."
+    },
+    "profInternalText": {
+        "h1": "Profesionet e një Auditori të Brendshëm",
+        "p": "Auditimi i brendshëm është një aktivitet i pavarur dhe objektiv i konsulencës dhe i pavarur i krijuar për të rritur vlerën dhe për të përmirësuar operacionet e një organizate. Profesionet si Auditor i Brendshëm i Çertifikuar janë:"
+    },
+    "profInternal": [
+        {
+            "link1": "AUDITOR I BRENDSHËM",
+            "link2": "AUDITOR I PAJTIMIT",
+            "link3": "AUDITOR I LART I BRENDSHM",
+            "link4": "AUDITORI I SIGURIMIT TË CILËSISË",
+            "link5": "MENAXHERI I AUDITIMIT TË BRENDSHËM",
+            "link6": "KËSHILLTAR I BRENDSHËM i AUDITIMIT"
+        }
+    ],
+    "profInternText": {
+        "h1": "Profesionet e një Kontabilisti Profesional",
+        "p": "Certifikimi si Kontabilist Profesional ofron një karrierë prestigjioze me shumë mundësi dhe potencial për zhvillim. Profesionet që mund të praktikoni janë:"
+    },
+    "profIntership": [
+        {
+            "link1": "KONTABILIST I KOSTOS",
+            "link2": "SPECIALISTI I KONTABILITETIT",
+            "link3": "SPECIALISTI I ÇMIMIT FIKS",
+            "link4": "KONTABILIST I PROJEKTIT",
+            "link5": "KONTABILIST FORENZIK",
+            "link6": "SPECIALISTI RREGULLATOR"
+        }
+    ],
+    "profTechText": {
+        "h1": "Profesionet e një tekniku të kontabilitetit",
+        "p": "Një çertifikuar në Menaxhimin e Kontabilitetit përcaktohet të jetë në kontabilitet, korporata financiare dhe krijimin e grupeve strategjike në organizata."
+    },
+    "profTechnician": [
+        {
+            "link1": "SHËRBIMET ARSIMORE",
+            "link2": "PRODHIMI",
+            "link3": "SIGURIMI DHE IMUNITETI",
+            "link4": "SHËRBIMET E KOMUNIKIMIT",
+            "link5": "NDËRTIMI",
+            "link6": "FINANCE"
+        }
+    ],
+    "profCmaText": {
+        "h1": "Ku mund të punoj në CMA?",
+        "p": "Një çertifikuar në Menaxhimin e Kontabilitetit përcaktohet të jetë në kontabilitet, korporata financiare dhe krijimin e grupeve strategjike në organizata."
+    },
+    "profExternalText": {
+        "h1": "Profesionet e një auditori të jashtëm",
+        "p": "Auditimi i brendshëm është një aktivitet i pavarur dhe objektiv i konsulencës dhe i pavarur i krijuar për të rritur vlerën dhe për të përmirësuar operacionet e një organizate. Profesionet si Auditor i Brendshëm i Çertifikuar janë:"
+    },
+    "profExternal": [
+        {
+            "link1": "SPECIALIST I VLERSIMIT TË BIZNESIT",
+            "link2": "ANALISTI-KONKURRUES I INTELEGJENSES",
+            "link3": "KËSHILLTAR I BRENDSHËM i AUDITIMIT",
+            "link4": "AUDITORI I JASHTEM",
+            "link5": "KËSHILLTAR I BIZNESIT",
+            "link6": "AUDITORI I RREZIKUT TË TEKNOLOGJI"
+        }
+    ],
+    "login": {
+        "h2": "Hej! Ne jemi të lumtur që të shohim këtu !",
+        "h3": "AuditKos është këtu për JU!",
+        "h1": "Mirëseerdhët në AuditKos",
+        "p": "Ju lutemi shkruani emailin dhe fjalëkalimin tuaj",
+        "password": "Keni harruar fjalëkalimin?",
+        "or": "OSE",
+        "loginBtn": "KYQU",
+        "accountBtn": "Krijo nje llogari",
+        "signinBtn": "Kyqu me Facebook"
+    },
+    "signUp": {
+        "h2": "Bashkohuni për të marrë zgjidhjet më të mira të auditimit dhe përgjegjësisë",
+        "h3": "Ju do të merrni përparësitë tuaja me ne si",
+        "list": "Konfidencialiteti",
+        "list1": "Mbështetje Gjithëpërfshirëse",
+        "list2": "Cilësia",
+        "h1": "Krijo llogarine tende",
+        "signupBtn": "Regjistrohuni",
+        "h4": "Tashmë jeni anëtar?",
+        "signIn": "Kyqu"
+    },
+    "appointment": {
+        "h2": "Le të flasim së bashku",
+        "h1": "Bëni një Takim",
+        "sendBtn": "Dërgo",
+        "resetBtn": "Rivendos"
+    },
+    "contact": {
+        "h2": "Përshëndetje mik",
+        "h1": "Ne jemi këtu për t'ju ndihmuar",
+        "h3": "Informacioni i kontaktit",
+        "list": "Prishtine Rr. L Haradinaj",
+        "list1": "info@auditkos.com",
+        "list2": "+383 43 560 863",
+        "contactUs": "Na kontaktoni",
+        "submitBtn": "Dërgo"
+    },
+    "btn": {
+        "login": "Kyqu",
+        "signUp": "Regjistrohu",
+        "services": "SHËRBIMET",
+        "learnM": "MËSO MË SHUMË",
+        "appoint": "CAKTO NJË TAKIM",
+        "viewAll": "SHIKO TË GJITHA",
+        "readMore": "LEXO MË SHUMË",
+        "apply": "APLIKO TANI"
+    }
+}

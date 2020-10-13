@@ -1,0 +1,40 @@
+.enterpre-h5 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #2E2E2E;
+    padding-top: 50px;
+    padding-right: 15%;
+}
+
+.enterpre-h2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #2E2E2E;
+    padding-bottom: 90px;
+    padding-left: 50px;
+}
+.benefits-list-second{
+    display: flex;
+    flex-direction: column;
+     width: 100%;
+    
+}
+.benefits-list-second h3 {
+    font-size: 28px;
+    font-weight: bold;
+    padding-top: 30px;
+    color: #2E2E2E;
+}
+@media (max-width: 768px){
+    .enterpre-h5 {
+        font-size: 20px;
+        padding-top: 20px;
+    }
+    
+    .enterpre-h2 {
+        font-size: 20px;
+        font-weight: bold;
+        color: #2E2E2E;
+        padding: 10px 10px;
+    }
+}

@@ -1,0 +1,20 @@
+.cases-container {
+    display: flex;
+    width: 100%;
+}
+
+.test-img {
+    width: 968px;
+    height: 985px;
+    background-image: url("../../assets/case.png");
+    background-size: cover;
+    background-position: center;
+}
+@media (max-width: 768px){
+    .cases-container{
+        height: 700px;
+    }
+    .test-img{
+       display: none;
+    }
+}

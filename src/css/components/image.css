@@ -1,0 +1,23 @@
+.image-comp{
+    width:625px;
+    height: 405px;
+    background-position: cover;
+    background-color: #FDF7F2;
+    position: relative;
+    border-top-right-radius:13%;
+}
+.image-comp img{
+    height: 388px;
+    width: 605px;
+    margin-top: 20px;
+}
+@media (max-width: 768px){
+    .image-comp{
+        width:330px;
+        height: 200px;
+    }
+    .image-comp img{
+        width:330px;
+        height: 200px;
+    }
+}

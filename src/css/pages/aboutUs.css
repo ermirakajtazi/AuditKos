@@ -1,0 +1,187 @@
+/* Choose Us Section in About Us page */
+
+.section-1 {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 100px;
+}
+
+.choose-us h1 {
+    font-size: 42px;
+    font-weight: bold;
+    color: #2E2E2E;
+}
+
+.choose-us p  {
+    font-size: 23px;
+    color: #140A03;
+    padding-top: 40px;
+    padding-bottom: 65px;
+    padding-right: 30%;
+}
+.choose-us .paragraph  {
+    font-size: 23px;
+    color: #140A03;
+    padding-top: 40px;
+    padding-bottom: 65px;
+    padding-right: 15%;
+}
+
+.about-btn {
+    padding-bottom: 183px;
+}
+
+.img-Comp {
+    padding-bottom: 18%;
+}
+
+/* Advantages Section in About Us page */
+
+.advatages {
+    width: 100%;
+    display: flex;
+}
+
+.advatages-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 958px;
+    background-image: url("../../assets/back1.png");
+    background-size: cover;
+    position: relative;
+    z-index: 1;
+    margin-top: 27px;
+}
+
+.advatages-list::after {
+    content: "";
+    background: RGBA(51, 50, 52, 0.85);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+.properties{
+    padding: 0px 100px;
+}
+.advatages-list h2 {
+    font-size: 48px;
+    color: white;
+    padding-top: 90px;
+    padding-bottom: 90px;
+    
+}
+
+.advatages-list h3 {
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-bottom: 50px;
+}
+
+.advatages-list p {
+    font-size: 22px;
+    color: white;
+    padding-left: 30px;
+    padding-bottom: 80px;
+    
+}
+
+.background-img {
+    width: 100%;
+    height: 985px;
+    background-size: cover;
+    background-image: url("../../assets/advatages.png");
+}
+
+.advatages-list img {
+    height: 41px;
+    width: 46px;
+}
+
+.properties {
+    display: flex;
+}
+@media (max-width: 768px){
+    .section-1 {
+        display: flex;
+        flex-direction: column;
+        padding: 50px 10px;
+    }
+    
+    .choose-us h1 {
+        font-size: 30px;
+    }
+    
+    .choose-us p {
+        font-size: 18px;
+        padding-top: 20px;
+        padding-bottom: 45px;
+        padding-right: 0px;
+    }
+    .choose-us .paragraph {
+        font-size: 18px;
+        padding-top: 20px;
+        padding-bottom: 45px;
+        padding-right: 0px;
+    }
+    
+    .about-btn {
+        padding-bottom: 40px;
+    }
+    
+    .img-Comp {
+        padding:30px 0px;
+    }
+    .advatages {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .advatages-list {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        padding: 0px 20px;
+        height: 750px;
+    }
+    .properties{
+        padding: 0px;
+    }
+    .advatages-list h2 {
+        font-size: 30px;
+        padding: 20px 0px;
+    }
+    
+    .advatages-list h3 {
+        font-size: 20px;
+        color: white;
+        font-weight: bold;
+        padding-left: 30px;
+        padding-bottom: 20px;
+    }
+    
+    .advatages-list p {
+        font-size: 18px;
+        color: white;
+        padding-left: 30px;
+        padding-bottom: 30px;
+    }
+    
+    .background-img {
+        display: none;
+    }
+    
+    .advatages-list img {
+        height: 30px;
+        width: 30px;
+    }
+}

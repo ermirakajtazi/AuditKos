@@ -1,0 +1,147 @@
+/* Avatar styles */
+
+.avatar {
+    height: 126px;
+    width: 126px;
+    border-radius: 126px;
+}
+
+/* TestimonialBody styles */
+
+.testimonial {
+    background-color: #2E2E2E;
+    width: 968px;
+    height: 985px;
+    padding: 100px 80px;
+}
+
+.cases-title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    padding-bottom: 90px;
+}
+
+.test-header {
+    padding-right: 25px;
+}
+
+.test-body {
+    padding-left: 50px;
+}
+
+.test-container h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color: #D96B0A;
+}
+
+.test-container h3 {
+    color: white;
+    padding: 10px 0px;
+}
+
+.qoute-container h3 {
+    font-size: 18px;
+    color: white;
+    padding: 0px;
+}
+
+.rating {
+    unicode-bidi: bidi-override;
+    padding-bottom: 40px;
+}
+
+.rating>span {
+    display: inline-block;
+    position: relative;
+    width: 1.1em;
+    font-size: 25px;
+    color: #F7D739;
+}
+
+.rating>span:hover:before, .rating>span:hover~span:before {
+    content: "\2605";
+    position: absolute;
+    color: #F7D739;
+}
+
+.qoute-container {
+    display: flex;
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+
+.fa-quote-left {
+    color: #d96b0a;
+    font-size: 50px;
+    padding-right: 30px;
+}
+
+.MuiTabs-root {
+    background-color: #2E2E2E;
+}
+
+.testimonial .MuiTab-textColorPrimary {
+    color: transparent;
+}
+
+.testimonial .MuiButtonBase-root, .MuiTab-root, .MuiTab-textColorPrimary {
+    border: 2px solid;
+    border-radius: 200px;
+}
+
+.testimonial .MuiTab-textColorPrimary.Mui-selected {
+    color: #d96b0a;
+    height: 200px;
+    width: 200px;
+}
+
+.test-header .PrivateTabIndicator-root-1 {
+    display: none;
+}
+
+.testimonial .MuiPaper-elevation4 {
+    box-shadow: none;
+}
+.testimonial .jss3,.jss1{
+    background: none;
+}
+
+.jss3,.jss1{
+    background: none;
+}
+@media (max-width: 768px) {
+    .testimonial {
+        padding: 20px 10px;
+        height: 700px;
+    }
+    .avatar {
+        height: 80px;
+        width: 80px;
+        border-radius: 100px;
+    }
+    .testimonial .MuiTab-textColorPrimary.Mui-selected {
+        height: 120px;
+        width: 120px;
+    }
+    .cases-title{
+        font-size: 25px;
+    }
+    .test-body {
+        padding-left: 0px;
+    }
+    
+    .rating {
+        padding-bottom: 20px;
+    }
+    .qoute-container {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    .qoute-container h3{
+        font-size: 16px;
+    }
+    
+}

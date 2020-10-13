@@ -1,0 +1,326 @@
+{
+    "navBar": {
+        "Home": "Home",
+        "About": "About",
+        "Tranings": "Tranings",
+        "Services": "Services",
+        "Appointment": "Appointment",
+        "Contact": "Contact"
+    },
+    "about": {
+        "aboutTitle": "We Offer Audit and Accountability Solutions",
+        "aboutDescription": "We provide extensive assistance with any audit issues to modern bussinesses"
+    },
+    "audit-content": {
+        "h4": "We Are Here To Manage Your  Audit And Finance",
+        "p": "Optimize audit costs using our years of experience"
+    },
+    "audit-content1": {
+        "h4": "We Are Here To Manage Your  Audit And Finance",
+        "p": "Optimize audit costs using our years of experience",
+        "span": "For many years, we have been helping people of all interests have more positive reviews than anyone else"
+    },
+    "list": {
+        "list1": "Fast Approval",
+        "list2": "Free Documention",
+        "list3": "Refinancing",
+        "list4": "Affordable rates"
+    },
+    "services": {
+        "p": "OUR SEVICES",
+        "h1": "We Love What We do"
+    },
+    "header-card": {
+        "title1": "Internal Audit",
+        "title2": "Accounting",
+        "title3": "Audit",
+        "title4": "Review"
+    },
+    "body-card": {
+        "p1": "Audit services are designed to help your business mitigate risk, create new efficiencies and",
+        "p2": "Accounting is the almost the main service that our company offer with the best solutions for you.",
+        "p3": "Audits are verified by sight, confirmation, discussion with management, assessment of",
+        "p4": "Reviews are less detailed and consist predomintaly"
+    },
+    "first-auditor": {
+        "h2": "LOOKING FOR",
+        "h1": "A FIRST-CLASS AUDITOR",
+        "p": "With a lot of experience in audit, hiring us will become a proper solution for your business!"
+    },
+    "values": {
+        "text1": "Trusted Clients",
+        "text2": "Awards",
+        "text3": "Years of Experience",
+        "text4": "Experts"
+    },
+    "avatar": {
+        "job": "Accounting Supervisor",
+        "job1": "Law Consultant",
+        "job2": "Assistants of Financial",
+        "job3": "Executive Director",
+        "p": "Accounting Supervisors ensure that all financial and accounting operations within an accounting department run smoothly...",
+        "p1": "Legal consultants, also called legal advisors, provide legal guidance to clients and businesses...",
+        "p2": "Finance assistants are responsible for collecting and recording financial information, and for making sure that ...",
+        "p3": "The executive director oversees hiring, firing, maintaining records, compliance, and other administrative duties..."
+    },
+    "cases-title": "Succsesful Cases",
+    "testimonial": {
+        "name": "Ian Charles",
+        "job": "Sales Manager",
+        "paragraph": "“I will not hesitate even one bit to work with them for my future tax and accounting needs.Thanks, guys!”",
+        "name1": "Chuck Charles",
+        "job1": "Marketing Manager",
+        "paragraph1": "“Good content isn’t about good storytelling. It’s about telling a true story well.”",
+        "name2": "Emily Charles",
+        "job2": "Project Manager",
+        "paragraph2": "“Management is, above all, a practice where art, science, and craft meet.”"
+    },
+    "subscribe": {
+        "title": "Subscribe to our news and regural updates",
+        "p": "Keep up with our always upcoming news, updates, and publications. Enter your e-mail and subscribe to our newsletter.",
+        "placeholder": "Enter your email address",
+        "btn":"Subscribe"
+    },
+    "footerLinks": [
+        {
+            "title": "HOME",
+            "link1": "About Us",
+            "link2": "Lastes New",
+            "link3": "Services",
+            "link4": "Affiliate",
+            "path": "/"
+        },
+        {
+            "title": "QUICK LINKS",
+            "link1": "Financial",
+            "link2": "Private Banking",
+            "link3": "Case Studies",
+            "link4": "Consulations",
+            "path": "/"
+        },
+        {
+            "title": "SUPPORT",
+            "link1": "Help Center",
+            "link2": "Contact Us",
+            "link3": "Help",
+            "link4": "Security",
+            "path": "/"
+        },
+        {
+            "title": "COMMUNITY",
+            "link1": "Mutual Fund",
+            "link2": "Meet Team",
+            "link3": "Stock Holders",
+            "link4": "Gift Cards",
+            "path": "/"
+        },
+        {
+            "title": "STAY CONNECTED",
+            "link1": "Twiter",
+            "link2": "Instagram",
+            "link3": "Facebook",
+            "link4": "Twitch",
+            "path": "/"
+        }
+    ],
+    "socialLinks": "All Rights Reserved",
+    "certificate": {
+        "title": "Certified Accouting Technician?",
+        "description": "Accounting technician have a very important role for all enterpriner from new private businesses,government departments to corporations. Accounting technicians assist professional accountants in collectiong,controlling, and analyzing financial information.",
+        "description1": "The AuditKos Accounting Technical Certification is designed to acquire and acquire accounting knowledge, but not any relevant experience in the field. This is a developmental qualification for officials as well as for administrative staff, as well as an unavoidable basis for those who want to qualify as a certified accountant.",
+        "p": "Training for",
+        "h1": "Accounting Technician"
+    },
+    "training": {
+        "h3": "After Attending This Training Members Will Be Able To",
+        "p": "Manage systems to verify or detect fraud, misappropriation of funds and to verify transactions.In other words, they ensure that people and organizations are functioning according to rules and reports financial and reflect reality with great accuracy."
+    },
+    "benefits": {
+        "h2": "Some of the benefits of AuditKos membership:",
+        "title": "SMIS & Forum",
+        "title1": "Online Test",
+        "title2": "E-Literature",
+        "title3": "Training in Class",
+        "paragraph": "Advanced system of services and communication with students.",
+        "paragraph1": "Online Testing and Questions.",
+        "paragraph2": "Digital and physical copies of books.",
+        "paragraph3": "Access to trainings and continuing education."
+    },
+    "partnership": {
+        "h1": "Partnership with ICBGlobal & AAT",
+        "h3": "Students who complete the AuditKos Certified Accountant certification are automatically given the opportunity to apply for membership in the British organizations ICBGlobal and AAT.",
+        "p": "Membership in ICBGLOBAL and AAT organizations means job opportunities in all European and world countries where these organizations operate."
+    },
+    "real": {
+        "h1": "This is where the real change begins",
+        "h3": "You can access ongoing training or education enabled at any time and in any place, based on the online training and testing or classroom training platform.",
+        "p": "You need to take the first step by registering online and taking control of your destiny by committing to these lessons on a daily basis to have a great professional rise."
+    },
+    "internal": {
+        "h1": "Internal Auditor",
+        "title": "Certificated Internal Auditor?",
+        "description": "The Certified Internal Auditor in the Private and Public Sector is the only certification accepted as such for both sectors and remains the standard by which individuals demonstrate their competence and professionalism in the field of internal audit. Moreover, AuditKos certification is more than a test of what you know and what you have achieved. It is also the best way for audit professionals to communicate with the world that they are prepared to meet today's challenges.",
+        "description1": "AuditKos certification is enriched with professional experience, education, information and business tools that can be applied immediately in any organization or business environment. This certification enhances your position in the audit community, increasing your career opportunities and gaining credibility and respect within your profession and organization."
+    },
+    "aboutUs": {
+        "p": "A Few Words For Us",
+        "title": "Why Choose Us",
+        "paragraph": "AuditKos is a Kosovo based company in Pristina, which provides consulting services and audit servicesin the development of financial systems. We know and organizations like you since 2015",
+        "title1": "Personal Development",
+        "paragraph1": "We are passionate about our clients and the value we create for them, but that’s not all. We also value and respect our goals for growth and development. We believe that the better balanced we are, the better we are able to serve our clients and each other.",
+        "title2": "Innovation",
+        "paragraph2": "We have a great respect and admiration for entrepreneurs. After all, we are entrepreneurs ourselves. Hence, like the business leaders we work with, we are innovative and committed for creative solutions to problems."
+    },
+    "advantages": {
+        "title": "Confidentiality",
+        "paragraph": "We guarantee the confidentiality of our client data through strict control over our infrastructure, as well as our physical and personal access rights.",
+        "title1": "Comprehensive support",
+        "paragraph1": "As an experienced outsourcing provider, we offer legal services, audit and internal control, financial administration, and other business support.",
+        "title2": "Quality",
+        "paragraph2": "We are dedicated to providing high quality financial administration services based on extensive experience and knowledge."
+    },
+    "cma": {
+        "h1": "CMA Certification",
+        "h2": "CMA equips you with in-depth knowledge of financial skills and business and related to the requirements of the employer.",
+        "title": "CMA Certification",
+        "description": "CMA USA(Certified Managnment Accountant) is an American certification, the best of this level that serves as a passport dor the whole world. CMA tranings are designed for finance professionals with international ambitions",
+        "description1": "CMA is an adequate certification for the following categories:For those who work at a high professional or academic level in the financial management sector, such as business controllers, business accountants or CFOs. For those who work internationally or have such ambitions and who want to have a degree that is worthwhile internationally in the financial field.",
+        "benefits": "CMA certification trainings",
+        "h3": "Teachers",
+        "paragraph": "The level of our professors / trainers is an educational process that we have established guarantees you a training that maximizes your chances of success.",
+        "h31": "Flexibility",
+        "paragraph1": "Designed to adapt to different learning methods and flexible schedules.",
+        "h32": "Satisfaction",
+        "paragraph2": "Over 98% of CMA candidates recommend our courses.",
+        "h33": "Classroom Training",
+        "paragraph3": "Access to training or continuing education."
+    },
+    "enter": {
+        "h1": "Entrepreneurship",
+        "h2": "ESB certification engages and prepares those students who will attend post-secondary training or who decide to enter the small business sector immediately after completing secondary education.",
+        "title": "What is an Enterprise and Small Bussiness (ESB) certification",
+        "description": "ESB is the first certification product in the Basic Business Certification Program – Certiport. The purpose is to use the ESB exam primarily in academic settings including high schools, vocational schools, colleges, and technical colleges.",
+        "description1": "Candidates for ESB certification are expected to have key conceptual knowledge of the principles of entrepreneurship and small businesses, although it is not expected from students to have real-world experience as a small business manager in order to pass the exam. Successful completion of this certification will validate the skills and knowledge of those students who are interested in working in a medium-sized business profession as a manager and those aspiring to have a career in entrepreneurship and small businesses.",
+        "benefits": "CMA certification trainings",
+        "h3": "Identify the characteristics of entrepreneurs.",
+        "h31": "In a given scenario involving a self-assessment score,identify the strengths weaknesses, risk tolerance identified during the self-assessment.",
+        "h32": "In a given scenario, know a business opportunity.",
+        "h33": "Identify the risks, benefits,opportunities and disadvantages of an entrepreneur."
+    },
+    "accountant": {
+        "h1": "Internship For Accounting",
+        "title": "Certified Accountant",
+        "description": "An AuditKos Certified Auditor will be ready to apply the acquired knowledge, skills and exercise professional judgment in applying and evaluating the principles of financial reporting and auditing of financial statements and to practice business situations and contexts, in an independent manner biased and professional.",
+        "description1": "Certified Accountants will also acquire the principles and systems of internal control of the enterprise, audit methods and standards, and will also gain considerable knowledge in the field of business planning, decision making and performance management.",
+        "h2": "After Attending This Training Members Will Be Able To",
+        "p": "A Certified Accountant will be ready to apply the knowledge gained in creating and applying the principles of reporting and financial management."
+    },
+    "profInternalText": {
+        "h1": "Professions of an Internal Auditor",
+        "p": "Internal audit is an independend and objective assurane and consulting activity designed to enhance value and improve the operations of an organization.The professions as a Certified Internal Auditor are:"
+    },
+    "profInternal": [
+        {
+            "link1": "INTERNAL AUDITOR",
+            "link2": "COMPLIANCE AUDITOR",
+            "link3": "HIGH INTERNAL AUDITOR",
+            "link4": "QUALITY ASSURANCE AUDITOR",
+            "link5": "INTERNAL AUDIT MANAGER",
+            "link6": "INTERNAL AUDIT ADVISOR"
+        }
+    ],
+    "profInternText": {
+        "h1": "Professions of a Professional Accountant",
+        "p": "Certification as e Professional Accountant offers a prestigious career with many oppurtunities and potential for development. The professions you can practice are:"
+    },
+    "profIntership": [
+        {
+            "link1": "COST ACCOUNTANT",
+            "link2": "ACCOUNTING SPECIALIST",
+            "link3": "FIXED PRICE SPECIALIST",
+            "link4": "PRJOECT ACCOUNTANT",
+            "link5": "FORENSIC ACCOUNTANT",
+            "link6": "REGULATORY SPECIALIST"
+        }
+    ],
+    "profTechText": {
+        "h1": "Professions of an Accounting Technician",
+        "p": "A certified in Accounting Management is defined to be in accounting, finance corporations and te creation of strategic groups in organizations."
+    },
+    "profTechnician": [
+        {
+            "link1": "EDUCATIONAL SERVICES",
+            "link2": "MANUFACTURE",
+            "link3": "INSURANCE AND IMMUNITY",
+            "link4": "COMMUNICATION SERVICES",
+            "link5": "CONSTRUCTION",
+            "link6": "FINANCE"
+        }
+    ],
+    "profCmaText": {
+        "h1": "Where can I work a CMA?",
+        "p": "A certified in Accounting Management is defined to be in accounting, finance corporations and te creation of strategic groups in organizations."
+    },
+    "profExternalText": {
+        "h1": "Professions of an External Auditor",
+        "p": "Internal audit is an independend and objective assurane and consulting activity designed to enhance value and improve the operations of an organization.The professions as a Certified Internal Auditor are:"
+    },
+    "profExternal": [
+        {
+            "link1": "BUSINESS EVALUATION SPECIALIST",
+            "link2": "ANALYST-COMPETITIVE INTELLIGENCE",
+            "link3": "INTERNAL AUDIT ADVISOR",
+            "link4": "EXTERNAL AUDITOR",
+            "link5": "BUSINESS ADVISOR",
+            "link6": "TECHNOLOGY RISK AUDITOR"
+        }
+    ],
+    "login": {
+        "h2": "Hey ! We're Glad to see you here !",
+        "h3": "AuditKos is here for YOU!",
+        "h1": "Welcome Back To AuditKos",
+        "p": "Please enter your email and password",
+        "password": "Forgot password?",
+        "or": "OR",
+        "loginBtn": "LOG IN",
+        "accountBtn": "Create an account",
+        "signinBtn": "Sign In With Facebook"
+    },
+    "signUp": {
+        "h2": "Join To Get The Best Audit and Accountability Solutions",
+        "h3": "You will get your advantages with us like",
+        "list": "Confidentiality",
+        "list1": "Comprehensive Support",
+        "list2": "Quality",
+        "h1": "Create Your Account",
+        "signupBtn": "Sign Up",
+        "h4": "Already a member?",
+        "signIn": "Sign In"
+    },
+    "appointment": {
+        "h2": "Lets Talk Together",
+        "h1": "Make an Appointment",
+        "sendBtn": "Send",
+        "resetBtn": "Reset"
+    },
+    "contact": {
+        "h2": "Hello Friend",
+        "h1": "We're here to help",
+        "h3": "Contact info",
+        "list": "Prishtine Rr. L Haradinaj",
+        "list1": "info@auditkos.com",
+        "list2": "+383 43 560 863",
+        "contactUs": "Contact Us",
+        "submitBtn": "Submit"
+    },
+    "btn":{
+        "login":"Login in",
+        "signUp":"Sign Up",
+        "services":"SERVICES",
+        "learnM":"LEARN MORE",
+        "appoint":"MAKE AN APPOINTMENT",
+        "viewAll":"View All",
+        "readMore":"READ MORE",
+        "apply":"APPLY NOW"
+    }
+}

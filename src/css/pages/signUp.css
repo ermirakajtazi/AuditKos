@@ -1,0 +1,73 @@
+.signup-info h3 {
+    font-size: 21px;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+/* .info-socials{
+    display: flex;
+}
+.info-socials img{
+    height: 20px;
+    width: 10px;
+    margin: 20px;
+
+} */
+.signup-title{
+    font-size: 31px;
+    font-weight: bold;
+    color: #D96B0A;
+}
+.link{
+    display: flex;
+}
+.link h4{
+    color:#626262;
+}
+.link a h3{
+    color:#D96B0A;
+    font-size: 16px;
+    text-decoration: none;
+    padding-left: 5px;
+}
+.link a{
+    text-decoration: none;
+}
+.input-name {
+    height: 60px;
+    width: 400px;
+    border: 1px solid #D1D1D1;
+    border-radius: 14px;
+    background-image: url("../../assets/userSign.png");
+    background-position: 10px 20px;
+    background-repeat: no-repeat;
+}
+.input-mail {
+    height: 60px;
+    width: 400px;
+    border: 1px solid #D1D1D1;
+    border-radius: 14px;
+    background-image: url("../../assets/mailSign.png");
+    background-position: 10px 20px;
+    background-repeat: no-repeat;
+}
+.input-password {
+    height: 60px;
+    width: 400px;
+    border: 1px solid #D1D1D1;
+    border-radius: 14px;
+    background-image: url("../../assets/lock.png");
+    background-position: 10px 20px;
+    background-repeat: no-repeat;
+}
+@media (max-width: 768px){
+    .signup-title{
+        font-size: 20px;
+    }
+    .input-name,.input-mail, .input-password{
+        width: 300px;
+    }
+    .link h4{
+        font-size: 16px;
+    }
+}

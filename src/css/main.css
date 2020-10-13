@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+/* Body */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#container {
+    min-height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+::placeholder{
+    padding-left: 40px;
+}
+@media (max-width: 768px){
+    ::placeholder{
+        padding-left: 30px;
+    }
+}
+
+/* Styles of components */
+@import './layout/header.css';
+@import './layout/footer.css';
+@import './components/button.css';
+@import './components/ourServices.css';
+@import './components/firstClassAuditor.css';
+@import './components/subscribe.css';
+@import './components/cardImage.css';
+@import './components/sliderCard.css';
+@import './components/meetOurTeam.css';
+@import './components/trainingMember.css';
+@import './components/auditKosBenefits.css';
+@import './components/image.css';
+@import './components/partnershipICB.css';
+@import './components/text.css';
+@import './components/modal.css';
+@import './components/testimonial.css';
+@import './components/succesfulCases.css';
+
+/* Styles of pages */
+@import './pages/home.css';
+@import './pages/aboutUs.css';
+@import './pages/externalAuditor.css';
+@import './pages/internshipAccountant.css';
+@import './pages/cmaCertification.css';
+@import './pages/accountingTechnician.css';
+@import './pages/entrepreneurship.css';
+@import './pages/contact.css';
+@import './pages/appointment.css';
+@import './pages/signUp.css';
+@import './pages/login.css';
+

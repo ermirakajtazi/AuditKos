@@ -1,0 +1,122 @@
+.slider .alice-carousel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 733px;
+}
+
+.slider {
+    background-image: url("../../assets/avatar.png");
+    background-size: cover;
+}
+
+.slider .alice-carousel__dots-item {
+    background-color: #2E2E2E;
+    width: 19px;
+    height: 20px;
+}
+
+.slider .alice-carousel__dots-item:hover{
+    background-color: #D96B0A;
+}
+
+/* Avatar Slider styles */
+.avatar-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.persons-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    padding-top: 20px;
+}
+
+.avatar-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.avatar-body {
+    margin-top: 10px;
+    padding:15px 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.avatar-img {
+    border: 2px solid #D96B0A;
+    border-radius: 214px;
+    height: 214px;
+    width: 214px;
+    padding: 5px;
+}
+
+.avatar-container h2 {
+    font-size: 36px;
+    color: #D96B0A;
+}
+
+.avatar-body h4 {
+    font-size: 34px;
+    font-weight: bold;
+}
+
+.avatar-body h3 {
+    font-size: 21px;
+    color: #D96B0A;
+}
+
+.avatar-description {
+    text-align: center;
+    width: 327px;
+    height: 100px;
+}
+
+.avatar-body p {
+    font-size: 17px;
+}
+
+.middle-img{
+    padding-top: 100px;
+}
+@media (max-width: 768px){
+    .avatar-container {
+        padding-bottom: 0px;
+    }
+    .avatar-container h2 {
+        font-size: 25px;
+        color: #D96B0A;
+    }
+    .slider .alice-carousel {
+        height: 600px;
+    }
+    .avatar-body h4 {
+        font-size: 25px;
+    }
+    
+    .avatar-body h3 {
+        font-size: 18px;
+    }
+    
+    .avatar-description {
+        width: 300px;
+        height: 80px;
+    }
+    .avatar-body p {
+        font-size: 14px;
+    }
+
+}

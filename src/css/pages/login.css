@@ -1,0 +1,105 @@
+.info-login {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding-left: 10%;
+    color: white;
+}
+
+.info-login h2 {
+    font-size: 30px;
+    font-weight: bold;
+    padding-right: 45%;
+    padding-bottom: 100px;
+}
+
+.info-login h3 {
+    font-size: 33px;
+}
+
+.login-title h1 {
+    font-size: 29px;
+    color: #2E2E2E;
+    font-weight: bold;
+}
+
+.login-title p {
+    color: #575C60;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.link a h3 {
+    color: #575C60;
+}
+
+.or h2 {
+    font-size: 25px;
+    padding: 20px 0px;
+    color: black;
+}
+
+.or {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-divider {
+    flex-grow: 1;
+    height: 2px;
+    background-color: #D96B0A;
+}
+
+.right-divider {
+    flex-grow: 1;
+    height: 2px;
+    background-color: #D96B0A;
+}
+
+.login-mail {
+    height: 60px;
+    width: 470px;
+    border: 1px solid #D1D1D1;
+    border-radius: 14px;
+    background-image: url("../../assets/userSign.png");
+    background-position: 10px 20px;
+    background-repeat: no-repeat;
+}
+
+.login-password {
+    height: 60px;
+    width: 470px;
+    border: 1px solid #D1D1D1;
+    border-radius: 14px;
+    background-image: url("../../assets/lock.png");
+    background-position: 10px 20px;
+    background-repeat: no-repeat;
+}
+
+.login-button {
+    margin-bottom: 20px;
+}
+@media (max-width: 768px){
+    .login-title h1 {
+        font-size: 18px;
+    }
+    .login-mail,.login-password {
+        width: 330px;
+    }
+    .login-button {
+        margin-bottom: 15px;
+    }
+    .or h2 {
+        font-size: 20px;
+        padding: 10px 0px;
+    }
+}

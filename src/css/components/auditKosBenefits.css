@@ -1,0 +1,159 @@
+.benefits {
+  width: 100%;
+  padding: 150px 50px;
+  background-position: center;
+}
+
+.benefits1 {
+  width: 100%;
+  padding: 150px 200px;
+  background-image: url("../../assets/cmaBenefits.png");
+  background-position: center;
+}
+
+.benefits1::after {
+  content: "";
+  background: RGBA(221, 217, 214, 1);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+.benefits-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.benefits h2 {
+  font-size: 38px;
+  font-weight: bold;
+  color: #2E2E2E;
+}
+
+.benefits1 h2 {
+  font-size: 38px;
+  font-weight: bold;
+  color: #2E2E2E;
+}
+
+.benefits-list {
+  display: flex;
+  flex-direction: column;
+ 
+}
+
+.list-container {
+  height: 390px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 115px;
+}
+
+.list-container2 {
+  height: 390px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  padding-top: 130px;
+}
+
+.benefits img {
+  height: 60px;
+  width: 60px;
+}
+
+.benefits1 img {
+  height: 60px;
+  width: 60px;
+}
+
+.benefits .image {
+  width: 117px;
+  height: 117px;
+  background-color: #E6DFC5;
+  border-radius: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.benefits1 .image {
+  width: 117px;
+  height: 117px;
+  background-color: #E6DFC5;
+  border-radius: 117px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.benefits-list h3 {
+  font-size: 28px;
+  font-weight: bold;
+  padding-top: 30px;
+  color: #2E2E2E;
+}
+
+.benefits p {
+  font-size: 20px;
+  color: #2E2E2E;
+  padding-top: 15px;
+}
+
+.benefits1 p {
+  font-size: 20px;
+  color: #2E2E2E;
+}
+.paragraphB{
+  font-size: 20px;
+  color: #2E2E2E;
+  padding-right: 25%;
+}
+
+.benefits-button {
+  text-align: center;
+  padding-top: 70px;
+}
+
+@media (max-width: 768px) {
+  .benefits, .benefits1 {
+    padding: 35px 10px;
+  }
+  .benefits-container {
+    display: flex;
+    flex-direction: column;
+  }
+  .benefits h2, .benefits1 h2 {
+    font-size: 25px;
+  }
+  .list-container {
+    padding-top: 25px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .benefits-list h3 {
+    font-size: 20px;
+  }
+  .benefits p {
+    font-size: 16px;
+  }
+  .benefits1 p {
+    font-size: 16px;
+  }
+  .benefits-button {
+    padding-top: 25px;
+  }
+  .paragraphB{
+    font-size: 16px;
+    padding-right: 0px;
+  }
+}

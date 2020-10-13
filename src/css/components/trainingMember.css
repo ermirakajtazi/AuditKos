@@ -1,0 +1,41 @@
+.training-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2C2C30;
+    padding:90px 50px;
+}
+
+.training-body h3{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    
+}
+.training-body p{
+    font-size: 20px;
+    color: white;
+    padding-right: 270px;
+    padding-top: 45px;
+}
+
+@media (max-width: 768px){
+    .training-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding:35px 10px;
+    }
+    
+    .training-body h3{
+        font-size: 20px;
+        
+    }
+    .training-body p{
+        font-size: 16px;
+        color: white;
+        padding:10px 0px;
+    }
+}

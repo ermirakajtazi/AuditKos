@@ -1,0 +1,326 @@
+{
+    "navBar": {
+        "Home": "Zuhause",
+        "About": "About",
+        "Tranings": "Schulungen",
+        "Services": "Dienstleistungen",
+        "Appointment": "Termin",
+        "Contact": "Kontakt"
+    },
+    "about": {
+        "aboutTitle": "Wir bieten Audit- und Accountability-Lösungen an",
+        "aboutDescription": "Wir bieten modernen Unternehmen umfassende Unterstützung bei Prüfungsfragen"
+    },
+    "audit-content": {
+        "h4": "Wir sind hier, um Ihre Prüfung und Finanzen zu verwalten",
+        "p": "Optimieren Sie die Prüfungskosten mit unserer langjährigen Erfahrung"
+    },
+    "audit-content1": {
+        "h4": "Wir sind hier, um Ihre Prüfung und Finanzen zu verwalten",
+        "p": "Optimieren Sie die Prüfungskosten mit unserer langjährigen Erfahrung",
+        "span": "Seit vielen Jahren helfen wir Menschen aller Interessen dabei, mehr positive Bewertungen zu erhalten als jeder andere"
+    },
+    "list": {
+        "list1": "Schnelle Genehmigung",
+        "list2": "Kostenlose Dokumentation",
+        "list3": "Refinanzierung",
+        "list4": "Erschwingliche Preise"
+    },
+    "services": {
+        "p": "UNSERE DIENSTLEISTUNGEN",
+        "h1": "Wir lieben was wir tun"
+    },
+    "header-card": {
+        "title1": "Interne Anhörung",
+        "title2": "Buchhaltung",
+        "title3": "Prüfung",
+        "title4": "Rezension"
+    },
+    "body-card": {
+        "p1": "Audit-Services sollen Ihrem Unternehmen dabei helfen, Risiken zu minimieren, neue Effizienz zu erzielen und",
+        "p2": "Das Rechnungswesen ist fast die Hauptdienstleistung, die unser Unternehmen mit den besten Lösungen für",
+        "p3": "Audits werden durch Sicht, Bestätigung, Diskussion mit dem Management, Bewertung von überprüft",
+        "p4": "Bewertungen sind weniger detailliert und bestehen überwiegend"
+    },
+    "first-auditor": {
+        "h2": "AUF DER SUCHE NACH",
+        "h1": "EIN PRÜFER DER ERSTEN KLASSE",
+        "p": "Mit viel Erfahrung in der Prüfung wird die Einstellung von uns zu einer geeigneten Lösung für Ihr Unternehmen!"
+    },
+    "values": {
+        "text1": "Vertrauenswürdige Kunden",
+        "text2": "Auszeichnungen",
+        "text3": "Langjährige Erfahrung",
+        "text4": "Experten"
+    },
+    "avatar": {
+        "job": "Leiter der Buchhaltung",
+        "job1": "Rechtsberater",
+        "job2": "Assistenten der Finanzabteilung",
+        "job3": "Geschäftsführer",
+        "p": "Die Rechnungsprüfer sorgen dafür, dass alle Finanz- und Rechnungslegungsvorgänge innerhalb einer...",
+        "p1": "Rechtsberater, auch Rechtsberater genannt, bieten Kunden und Unternehmen Rechtsberatung...",
+        "p2": "Finanzassistenten sind dafür verantwortlich, Finanzinformationen zu sammeln und aufzuzeichnen ...",
+        "p3": "Der Exekutivdirektor überwacht die Einstellung, Entlassung, Führung von Aufzeichnungen, die ..."
+    },
+    "cases-title": "Erfolgreiche Fälle",
+    "testimonial": {
+        "name": "Ian Charles",
+        "job": "Verkaufsleiter",
+        "paragraph": "“Ich werde nicht einmal ein bisschen zögern, mit ihnen für meine zukünftigen Steuer- und Buchhaltungsbedürfnisse zusammenzuarbeiten. Danke, Leute!”",
+        "name1": "Chuck Charles",
+        "job1": "Marketing Manager",
+        "paragraph1": "“Bei guten Inhalten geht es nicht um gutes Geschichtenerzählen. Es geht darum, eine wahre Geschichte gut zu erzählen.”",
+        "name2": "Emily Charles",
+        "job2": "Projektmanager",
+        "paragraph2": "“Management ist vor allem eine Praxis, in der sich Kunst, Wissenschaft und Handwerk treffen.”"
+    },
+    "subscribe": {
+        "title": "Abonnieren Sie unsere Neuigkeiten und regelmäßigen Updates",
+        "p": "Bleiben Sie über unsere ständig kommenden Neuigkeiten, Updates und Veröffentlichungen auf dem Laufenden. Geben Sie Ihre E-Mail-Adresse ein und abonnieren Sie unseren Newsletter.",
+        "placeholder": "Geben sie ihre E-Mailadresse ein",
+        "btn": "Abonnieren"
+    },
+    "footerLinks": [
+        {
+            "title": "HOME",
+            "link1": "Über uns",
+            "link2": "Neueste Neu",
+            "link3": "Dienstleistungen",
+            "link4": "Affiliate",
+            "path": "/"
+        },
+        {
+            "title": "SCHNELLE LINKS",
+            "link1": "Finanziell",
+            "link2": "Private Bankgeschäfte",
+            "link3": "Fallstudien",
+            "link4": "Konsultationen",
+            "path": "/"
+        },
+        {
+            "title": "UNTERSTÜTZUNG",
+            "link1": "Hilfezentrum",
+            "link2": "Kontaktiere uns",
+            "link3": "Hilfe",
+            "link4": "Sicherheit",
+            "path": "/"
+        },
+        {
+            "title": "COMMUNITY",
+            "link1": "Investmentfonds",
+            "link2": "Treffen Sie das Team",
+            "link3": "Aktionäre",
+            "link4": "Geschenkkarten",
+            "path": "/"
+        },
+        {
+            "title": "N VERBINDUNG BLEIBEN",
+            "link1": "Twiter",
+            "link2": "Instagram",
+            "link3": "Facebook",
+            "link4": "Twitch",
+            "path": "/"
+        }
+    ],
+    "socialLinks": "Alle Rechte vorbehalten",
+    "certificate": {
+        "title": "Zertifizierter Buchhaltungstechniker?",
+        "description": "Buchhaltungstechniker spielen für alle Unternehmer eine sehr wichtige Rolle, von neuen Privatunternehmen über Regierungsabteilungen bis hin zu Unternehmen. Buchhaltungstechniker unterstützen professionelle Buchhalter bei der Erfassung, Kontrolle und Analyse von Finanzinformationen.",
+        "description1": "Die AuditKos Accounting Technical Certification wurde entwickelt, um Buchhaltungskenntnisse zu erwerben und zu erwerben, jedoch keine relevanten Erfahrungen auf diesem Gebiet. Dies ist eine Entwicklungsqualifikation für Beamte sowie für Verwaltungspersonal sowie eine unvermeidbare Grundlage für diejenigen, die sich als Wirtschaftsprüfer qualifizieren möchten.",
+        "p": "Trainieren für",
+        "h1": "Buchhaltungstechniker"
+    },
+    "training": {
+        "h3": "Nach der Teilnahme an dieser Schulung können Mitglieder",
+        "p": "Verwalten Sie Systeme, um Betrug, Veruntreuung von Geldern und Transaktionen zu überprüfen oder aufzudecken. Mit anderen Worten, sie stellen sicher, dass Personen und Organisationen gemäß den finanziellen Regeln und Berichten funktionieren und die Realität mit großer Genauigkeit widerspiegeln."
+    },
+    "benefits": {
+        "h2": "Einige der Vorteile einer AuditKos-Mitgliedschaft:",
+        "title": "SMIS & Forum",
+        "title1": "Online-Test",
+        "title2": "E-Literatur",
+        "title3": "Training in der Klasse",
+        "paragraph": "Fortschrittliches System von Dienstleistungen und Kommunikation mit Studenten.",
+        "paragraph1": "Online-Tests und Fragen.",
+        "paragraph2": "Digitale und physische Kopien von Büchern.",
+        "paragraph3": "Zugang zu Aus- und Weiterbildung."
+    },
+    "partnership": {
+        "h1": "Partnerschaft mit ICBGlobal & AAT",
+        "h3": "Studenten, die die AuditKos Certified Accountant-Zertifizierung abgeschlossen haben, erhalten automatisch die Möglichkeit, eine Mitgliedschaft bei den britischen Organisationen ICBGlobal und AAT zu beantragen.",
+        "p": "Die Mitgliedschaft in ICBGLOBAL- und AAT-Organisationen bedeutet Beschäftigungsmöglichkeiten in allen europäischen und weltweiten Ländern, in denen diese Organisationen tätig sind."
+    },
+    "real": {
+        "h1": "Hier beginnt die eigentliche Veränderung",
+        "h3": "Sie können jederzeit und an jedem Ort auf laufende Schulungen oder Schulungen zugreifen, die auf der Online-Plattform für Schulungen und Tests oder Schulungen im Klassenzimmer basieren.",
+        "p": "Sie müssen den ersten Schritt tun, indem Sie sich online registrieren und die Kontrolle über Ihr Schicksal übernehmen, indem Sie sich täglich zu diesen Lektionen verpflichten, um einen großen beruflichen Aufstieg zu erzielen."
+    },
+    "internal": {
+        "h1": "Interne Rechnungsprüfer",
+        "title": "Zertifizierter Interner Prüfer?",
+        "description": "Der zertifizierte interne Prüfer im privaten und öffentlichen Sektor ist die einzige Zertifizierung, die als solche für beide Sektoren anerkannt ist, und bleibt der Standard, nach dem Einzelpersonen ihre Kompetenz und Professionalität im Bereich der internen Revision unter Beweis stellen. Darüber hinaus ist die AuditKos-Zertifizierung mehr als ein Test dessen, was Sie wissen und was Sie erreicht haben. Dies ist auch die beste Möglichkeit für Wirtschaftsprüfer, mit der Welt zu kommunizieren, um auf die heutigen Herausforderungen vorbereitet zu sein.",
+        "description1": "Die AuditKos-Zertifizierung wird durch Berufserfahrung, Ausbildung, Informationen und Geschäftstools bereichert, die sofort in jeder Organisation oder Geschäftsumgebung angewendet werden können. Diese Zertifizierung stärkt Ihre Position in der Audit-Community, erhöht Ihre Karrieremöglichkeiten und gewinnt an Glaubwürdigkeit und Respekt in Ihrem Beruf und Ihrer Organisation."
+    },
+    "aboutUs": {
+        "p": "Ein paar Worte für uns",
+        "title": "Warum uns wählen",
+        "paragraph": "AuditKos ist ein im Kosovo ansässiges Unternehmen in Pristina, das Beratungs- und Prüfungsdienstleistungen bei der Entwicklung von Finanzsystemen anbietet. Wir kennen und Organisationen wie Sie seit 2015",
+        "title1": "Persönliche Entwicklung",
+        "paragraph1": "Persönliche EntwicklungWir sind begeistert von unseren Kunden und dem Wert, den wir für sie schaffen, aber das ist noch nicht alles. Wir schätzen und respektieren auch unsere Ziele für Wachstum und Entwicklung. Wir glauben, je ausgewogener wir sind, desto besser können wir unseren Kunden und einander dienen.",
+        "title2": "Innovation",
+        "paragraph2": "Wir haben großen Respekt und große Bewunderung für Unternehmer. Schließlich sind wir selbst Unternehmer. Daher sind wir wie die Führungskräfte, mit denen wir zusammenarbeiten, innovativ und setzen uns für kreative Lösungen für Probleme ein."
+    },
+    "advantages": {
+        "title": "Vertraulichkeit",
+        "paragraph": "Wir garantieren die Vertraulichkeit unserer Kundendaten durch strenge Kontrolle unserer Infrastruktur sowie unserer physischen und persönlichen Zugriffsrechte.",
+        "title1": "Umfassende Unterstützung",
+        "paragraph1": "Als erfahrener Outsourcing-Anbieter bieten wir Rechtsdienstleistungen, Prüfung und interne Kontrolle, Finanzverwaltung und andere geschäftliche Unterstützung an.",
+        "title2": "Qualität",
+        "paragraph2": "Wir sind bestrebt, qualitativ hochwertige Finanzverwaltungsdienste anzubieten, die auf umfangreichen Erfahrungen und Kenntnissen beruhen."
+    },
+    "cma": {
+        "h1": "CMA-Zertifizierung",
+        "h2": "CMA vermittelt Ihnen fundierte Kenntnisse der finanziellen Fähigkeiten und des Geschäfts und bezieht sich auf die Anforderungen des Arbeitgebers.",
+        "title": "CMA-Zertifizierung",
+        "description": "CMA USA (Certified Managnment Accountant) ist eine amerikanische Zertifizierung, die beste dieser Stufe, die als Reisepass für die ganze Welt dient. CMA-Transaktionen richten sich an Finanzfachleute mit internationalen Ambitionen",
+        "description1": "CMA ist eine angemessene Zertifizierung für die folgenden Kategorien: Für diejenigen, die auf einem hohen professionellen oder akademischen Niveau im Finanzmanagementsektor arbeiten, wie z. B. Business Controller, Wirtschaftsprüfer oder CFOs. Für diejenigen, die international arbeiten oder solche Ambitionen haben und einen Abschluss haben möchten, der sich im Finanzbereich international lohnt.",
+        "benefits": "CMA-Zertifizierungsschulungen",
+        "h3": "Lehrer",
+        "paragraph": "Das Niveau unserer Professoren / Trainer ist ein von uns etablierter Bildungsprozess, der Ihnen eine Ausbildung garantiert, die Ihre Erfolgschancen maximiert.",
+        "h31": "Flexibilität",
+        "paragraph1": "Entwickelt, um sich an verschiedene Lernmethoden und flexible Zeitpläne anzupassen.",
+        "h32": "Befriedigung",
+        "paragraph2": "Über 98% der CMA-Kandidaten empfehlen unsere Kurse.",
+        "h33": "Schulung",
+        "paragraph3": "Zugang zu Aus- oder Weiterbildung."
+    },
+    "enter": {
+        "h1": "Unternehmerschaft",
+        "h2": "Die ESB-Zertifizierung engagiert und bereitet diejenigen Studenten vor, die eine postsekundäre Ausbildung absolvieren oder sich unmittelbar nach Abschluss der Sekundarstufe für den Eintritt in den Kleinunternehmenssektor entscheiden.",
+        "title": "Was ist eine ESB-Zertifizierung (Enterprise and Small Business)?",
+        "description": "ESB ist das erste Zertifizierungsprodukt im Basic Business Certification Program - Certiport. Der Zweck besteht darin, die ESB-Prüfung hauptsächlich in akademischen Umgebungen wie Gymnasien, Berufsschulen, Hochschulen und Fachhochschulen zu verwenden.",
+        "description1": "Von Kandidaten für die ESB-Zertifizierung wird erwartet, dass sie über grundlegende konzeptionelle Kenntnisse der Grundsätze des Unternehmertums und von Kleinunternehmen verfügen, obwohl von Studenten nicht erwartet wird, dass sie über praktische Erfahrungen als Manager für Kleinunternehmen verfügen, um die Prüfung zu bestehen. Der erfolgreiche Abschluss dieser Zertifizierung bestätigt die Fähigkeiten und Kenntnisse derjenigen Studenten, die daran interessiert sind, als Manager in einem mittelständischen Unternehmensberuf zu arbeiten, und derjenigen, die eine Karriere im Bereich Unternehmertum und Kleinunternehmen anstreben.",
+        "benefits": "CMA-Zertifizierungsschulungen",
+        "h3": "Identifizieren Sie die Merkmale von Unternehmern.",
+        "h31": "Identifizieren Sie in einem bestimmten Szenario mit einer Selbsteinschätzung die Stärken, Schwächen und Risikotoleranz, die während der Selbsteinschätzung ermittelt wurden.",
+        "h32": "Kennen Sie in einem bestimmten Szenario eine Geschäftsmöglichkeit.",
+        "h33": "Identifizieren Sie die Risiken, Vorteile, Chancen und Nachteile eines Unternehmers."
+    },
+    "accountant": {
+        "h1": "Praktikum für Buchhaltung",
+        "title": "Geprüfter Buchhalter",
+        "description": "Ein AuditKos Certified Auditor ist bereit, das erworbene Wissen, die Fähigkeiten und das professionelle Urteilsvermögen bei der Anwendung und Bewertung der Grundsätze der Finanzberichterstattung und Abschlussprüfung anzuwenden und Geschäftssituationen und -kontexte auf unabhängige, voreingenommene und professionelle Weise zu praktizieren.",
+        "description1": "Wirtschaftsprüfer werden auch die Grundsätze und Systeme der internen Kontrolle des Unternehmens, die Prüfungsmethoden und -standards erwerben und beträchtliche Kenntnisse in den Bereichen Geschäftsplanung, Entscheidungsfindung und Leistungsmanagement erwerben.",
+        "h2": "Nach der Teilnahme an dieser Schulung können Mitglieder",
+        "p": "Ein Wirtschaftsprüfer ist bereit, die bei der Erstellung und Anwendung der Grundsätze der Berichterstattung und des Finanzmanagements erworbenen Kenntnisse anzuwenden."
+    },
+    "profInternalText": {
+        "h1": "Berufe eines Internen Prüfers",
+        "p": "Die interne Revision ist eine unabhängige und objektive Assurane- und Beratungstätigkeit, die darauf abzielt, den Wert zu steigern und die Geschäftstätigkeit einer Organisation zu verbessern. Die Berufe als zertifizierter interner Prüfer sind:"
+    },
+    "profInternal": [
+        {
+            "link1": "INTERNE RECHNUNGSPRÜFER",
+            "link2": "COMPLIANCE-PRÜFER",
+            "link3": "HOHER INTERNER PRÜFER",
+            "link4": "QUALITY ASSURANCE AUDITOR",
+            "link5": "INTERNER PRÜFUNGSMANAGER",
+            "link6": "NTERNER PRÜFUNGSBERATER"
+        }
+    ],
+    "profInternText": {
+        "h1": "Berufe eines Wirtschaftsprüfers",
+        "p": "Die Zertifizierung als e Professional Accountant bietet eine angesehene Karriere mit vielen Möglichkeiten und Entwicklungspotenzialen. Die Berufe, die Sie ausüben können, sind:"
+    },
+    "profIntership": [
+        {
+            "link1": "KOSTENRECHNER",
+            "link2": "BUCHHALTUNGSSPEZIALIST",
+            "link3": "SPEZIALIST FÜR FESTE PREISE",
+            "link4": "PROJEKTRECHNER",
+            "link5": "FORENSISCHER BUCHHALTER",
+            "link6": "REGULATORISCHER SPEZIALIST"
+        }
+    ],
+    "profTechText": {
+        "h1": "Berufe eines Buchhaltungstechnikers",
+        "p": "Als in Accounting Management zertifiziert wird definiert, dass es sich um Buchhaltung, Finanzunternehmen und die Schaffung strategischer Gruppen in Organisationen handelt."
+    },
+    "profTechnician": [
+        {
+            "link1": "BILDUNGSDIENSTLEISTUNGEN",
+            "link2": "HERSTELLUNG",
+            "link3": "VERSICHERUNG UND IMMUNITÄT",
+            "link4": "KOMMUNIKATIONSDIENSTE",
+            "link5": "KONSTRUKTION",
+            "link6": "FINANZEN"
+        }
+    ],
+    "profCmaText": {
+        "h1": "Wo kann ich eine CMA arbeiten?",
+        "p": "Als in Accounting Management zertifiziert wird definiert, dass es sich um Buchhaltung, Finanzunternehmen und die Schaffung strategischer Gruppen in Organisationen handelt."
+    },
+    "profExternalText": {
+        "h1": "Berufe eines externen Wirtschaftsprüfers",
+        "p": "Die interne Revision ist eine unabhängige und objektive Assurane- und Beratungstätigkeit, die darauf abzielt, den Wert zu steigern und die Geschäftstätigkeit einer Organisation zu verbessern. Die Berufe als zertifizierter interner Prüfer sind:"
+    },
+    "profExternal": [
+        {
+            "link1": "SPEZIALIST FÜR GESCHÄFTSBEWERTUNG",
+            "link2": "ANALYST-WETTBEWERBSINTELLIGENZ",
+            "link3": "INTERNER PRÜFUNGSBERATER",
+            "link4": "EXTERNER PRÜFER",
+            "link5": "UNTERNEHMENSBERATER",
+            "link6": "TECHNOLOGIE-RISIKO-PRÜFER"
+        }
+    ],
+    "login": {
+        "h2": "Hallo ! Wir freuen uns, Sie hier zu sehen!",
+        "h3": "AuditKos ist für SIE da!",
+        "h1": "Willkommen zurück bei AuditKos",
+        "p": "Bitte geben Sie Ihre E-Mail-Adresse und Ihr Passwort ein",
+        "password": "Passwort vergessen?",
+        "or": "ODER",
+        "loginBtn": "ANMELDUNG",
+        "accountBtn": "Ein Konto erstellen",
+        "signinBtn": "Mit Facebook anmelden"
+    },
+    "signUp": {
+        "h2": "Machen Sie mit, um die besten Audit- und Accountability-Lösungen zu erhalten",
+        "h3": "Sie werden Ihre Vorteile bei uns gerne bekommen",
+        "list": "Vertraulichkeit",
+        "list1": "Umfassende Unterstützung",
+        "list2": "Qualität",
+        "h1": "Erstelle deinen Account",
+        "signupBtn": "Anmelden",
+        "h4": "Schon ein Mitglied?",
+        "signIn": "Anmelden"
+    },
+    "appointment": {
+        "h2": "Reden wir miteinander",
+        "h1": "Einen Termin machen",
+        "sendBtn": "Senden",
+        "resetBtn": "Zurücksetzen"
+    },
+    "contact": {
+        "h2": "Hallo Freund",
+        "h1": "Wir sind hier um zu helfen",
+        "h3": "Kontaktinformation",
+        "list": "Prishtine Rr. L Haradinaj",
+        "list1": "info@auditkos.com",
+        "list2": "+383 43 560 863",
+        "contactUs": "Kontaktiere uns",
+        "submitBtn": "Submit"
+    },
+    "btn": {
+        "login": "Einloggen in",
+        "signUp": "Anmelden",
+        "services": "DIENSTLEISTUNGEN",
+        "learnM": "MEHR ERFAHREN",
+        "appoint": "EINEN TERMIN MACHEN",
+        "viewAll": "Alle ansehen",
+        "readMore": "WEITERLESEN",
+        "apply": "JETZT BEWERBEN"
+    }
+}

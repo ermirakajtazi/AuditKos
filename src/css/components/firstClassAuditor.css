@@ -1,0 +1,68 @@
+.first-auditor {
+    text-align: center;
+    width: 100%;
+    min-height: 70vh;
+    background:linear-gradient(rgba(0,0,0,.80),rgba(0,0,0,.80)), url("../../assets/mask.png")50%/cover no-repeat fixed;
+    background-position:center;
+}
+
+.values {
+    display: flex;
+    justify-content: space-around;
+}
+
+.values ul {
+    list-style-type: none;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.values ul li{
+    padding-top: 15px;
+}
+.first-auditor h2 {
+    padding-top: 20px;
+    font-size: 36px;
+    color: #D96B0A;
+}
+
+.first-auditor h1 {
+    font-size: 60px;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.first-auditor p{
+    font-size: 20px;
+    color: white;
+}
+.values .numbers {
+    font-size: 69px;
+    color: #D96B0A;
+    font-weight: bold;
+}
+
+.values .text {
+    font-size: 20px;
+    color: white;
+}
+
+.auditor-bnt{
+    padding-bottom: 50px;
+}
+@media (max-width: 768px){
+    .first-auditor h2 {
+        font-size: 30px;
+    }
+    .first-auditor h1 {
+        font-size: 40px;
+    }
+    .values .numbers {
+        font-size: 45px;
+    }
+    
+    .values .text {
+        font-size: 16px;
+        color: white;
+    }
+    
+}

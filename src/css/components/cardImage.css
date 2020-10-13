@@ -1,0 +1,131 @@
+.container-card {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.image-card {
+  padding-bottom: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blog-title {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  padding-right: 42%;
+  font-size: 54px;
+  color: #2E2E2E;
+}
+
+.card {
+  width: 445px;
+  display: flex;
+  transition: .25s;
+  box-shadow: 2px 2px 2px 2px rgba(0.10, 0.10, 0.10, 0.10);
+}
+
+.card:hover {
+  box-shadow: 10px 10px 10px 10px gray;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.card:hover .button-primary {
+  transform: translate(10px, 0);
+}
+
+.card-header {
+  height: 371px;
+  width: 100%;
+  background-size: cover;
+  color: #fff;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.card-body {
+  padding: 20px;
+  background-color: #fff;
+  width: 100%;
+  text-align: left;
+}
+
+.body-content {
+  padding-bottom: 40px;
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.date p {
+  font-size: 14px;
+  color: gray;
+}
+
+.button-primary {
+  border: none;
+  box-shadow: none;
+  background-color: transparent;
+  color: gray;
+  font-size: 17px;
+  transition: .25s;
+}
+
+.button-primary i {
+  padding-right: 4px;
+}
+
+.card-body h2 {
+  font-size: 20;
+  color: #2E2E2E;
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.app-card-list {
+  display: inline-block;
+  width: 100%;
+  margin: 0;
+  min-height: 75vh;
+  white-space: normal;
+  overflow-x: scroll;
+  padding-top: 30px;
+}
+
+.app-card-list::-webkit-scrollbar {
+  display: none;
+}
+.app-card-list .card {
+  display: inline-block;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+.app-card-list .card .card-body {
+  white-space: normal;
+  border: solid transparent;
+  border-radius: 10px;
+}
+
+.card-body .date {
+  display: flex;
+  justify-content: space-between;
+}
+@media (max-width: 768px) {
+  .container-card{
+    padding-bottom: 20px;
+  }
+  .blog-title{
+    font-size: 22px;
+    padding: 10px 0px;
+  }
+  .image-card{
+    padding-bottom: 20px;
+  }
+  .app-card-list .card{
+    margin: 10px;
+  }
+ .card{
+   width: auto;
+ }
+}
